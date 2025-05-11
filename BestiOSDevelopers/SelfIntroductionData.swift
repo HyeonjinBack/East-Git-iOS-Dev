@@ -125,6 +125,7 @@ let people: [SelfIntroduction] = [
         hobby: "변경했습니다 오전 1시46분",
         mbti: "ENTP",
         strength: "실행력, 끈기",
+        strength: "실행력, 끈기, 삭제",
         sns: nil,
         etc: "열심히 수료하고 취업하겠습니다!1!",
         job: "ㅇㅇ - iOS 개발자"

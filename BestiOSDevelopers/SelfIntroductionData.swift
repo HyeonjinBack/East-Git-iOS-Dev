@@ -126,8 +126,8 @@ let people: [SelfIntroduction] = [
         mbti: "ENTP",
         strength: "실행력, 끈기",
         sns: nil,
-        etc: "열심히 수료하고 취업하겠습니다!",
-        job: "카카오 - iOS 개발자"
+        etc: "열심히 수료하고 취업하겠습니다!1!",
+        job: "ㅇㅇ - iOS 개발자"
     ),
     SelfIntroduction(
         name: "이준영",
